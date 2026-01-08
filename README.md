@@ -1,35 +1,33 @@
-#🧾 Gerador de CPF
+# 🧾 Gerador de CPF
 
-Projeto web simples desenvolvido para gerar CPFs válidos, seguindo as regras oficiais de cálculo dos dígitos verificadores.
-Ideal para fins educacionais, testes e estudos de JavaScript.
+## 📌 Sobre o projeto
 
-🚀 Funcionalidades
+O **Gerador de CPF** é uma aplicação web desenvolvida com o objetivo de **gerar números de CPF válidos**, seguindo corretamente o algoritmo oficial de cálculo dos dígitos verificadores.
 
-Geração de CPF válido
+O projeto foi criado para fins **educacionais**, com foco em praticar **lógica de programação**, **JavaScript moderno** e **organização de projetos com Webpack**.
 
-Cálculo automático dos dígitos verificadores
+---
 
-Interface simples e responsiva
+## 🚀 Funcionalidades
 
-Código organizado e fácil de entender
+- Geração de CPF válido
+- Cálculo automático dos dígitos verificadores
+- Interface simples e intuitiva
+- Código organizado e de fácil leitura
 
-🛠️ Tecnologias Utilizadas
+---
 
-HTML5
+## 🛠️ Tecnologias Utilizadas
 
-CSS3
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Webpack  
+- Bootstrap Icons  
 
-JavaScript (ES6+)
+---
 
-Webpack
+## 👨‍💻 Autor
 
-Bootstrap Icons
-
-📷 Preview
-
-Interface limpa e intuitiva, com foco em aprendizado e boas práticas.
-
-⚠️ Aviso Legal
-
-Este projeto é apenas para fins educacionais.
-Os CPFs gerados não pertencem a pessoas reais e não devem ser utilizados para fins ilegais ou fraudulentos.
+### Lieberty Holanda
+🔗 GitHub: https://github.com/Liebertydev
