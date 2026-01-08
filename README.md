@@ -30,4 +30,4 @@ O projeto foi criado para fins **educacionais**, com foco em praticar **lógica 
 ## 👨‍💻 Autor
 
 ### Lieberty Holanda
-🔗 GitHub: https://github.com/Liebertydev
+💼 LinkedIn: https://www.linkedin.com/in/liebertyholanda01/
